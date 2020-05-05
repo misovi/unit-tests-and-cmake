@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/narmondur/programmingcrud/cmake_and_tests/ExampleProject/src/Date.cpp
+iostream
+-
+cstdlib
+-
+Date.h
+/home/narmondur/programmingcrud/cmake_and_tests/ExampleProject/src/Date.h
+
+/home/narmondur/programmingcrud/cmake_and_tests/ExampleProject/src/Date.h
+
+/home/narmondur/programmingcrud/cmake_and_tests/ExampleProject/src/main.cpp
+iostream
+-
+Date.h
+/home/narmondur/programmingcrud/cmake_and_tests/ExampleProject/src/Date.h
+

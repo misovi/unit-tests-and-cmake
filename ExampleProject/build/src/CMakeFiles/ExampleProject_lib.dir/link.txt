@@ -1,0 +1,2 @@
+/usr/bin/ar qc libExampleProject_lib.a  CMakeFiles/ExampleProject_lib.dir/Date.cpp.o CMakeFiles/ExampleProject_lib.dir/main.cpp.o
+/usr/bin/ranlib libExampleProject_lib.a

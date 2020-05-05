@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ExampleProject_run.dir/Date.cpp.o CMakeFiles/ExampleProject_run.dir/main.cpp.o  -o ExampleProject_run 
